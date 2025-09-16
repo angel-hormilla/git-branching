@@ -1,1 +1,3 @@
 # git-branching
+
+Samuel Rivera
